@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my Masters in Mechanical Engineering. It is focused on developing a hierarchical design framework for the efficient design of soft robots.
+I'm currently working on a PhD in Mechanical Engineering. It is focused on Numerical modeling of the Ilizarov external fixatio device.
 
 
 ## 🌐 Socials:
