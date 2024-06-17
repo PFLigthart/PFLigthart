@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a PhD in Mechanical Engineering. It is focused on Numerical modeling of the Ilizarov external fixatio device.
+I'm currently working on a PhD in Mechanical Engineering. It is focused on Numerical modeling of the Ilizarov external fixation device.
 
 
 ## 🌐 Socials:
