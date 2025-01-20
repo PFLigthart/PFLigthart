@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm currently working on a PhD in Mechanical Engineering. It is focused on Numerical modeling of the Ilizarov external fixation device.
+🔬 I'm currently working on a **PhD in Mechanical Engineering**, focusing on **Numerical modeling of the Ilizarov external fixation device**.
+
+## 🎓 Qualifications
+🎓 **BEng (Mechanical)**  
+🎓 **MEng (Mechanical)**  
+🔧 My master's involved **non-linear FEA**, **meta-modeling** (from simple polynomials to RBFs and Neural networks), and **optimization**.
+
+## 📚 Publications
+📖 [A Hierarchical Design Framework for the Design of Soft Robots](https://www.mdpi.com/2206534)  
+📖 [On the Complexity of Internal Chambers in Soft Pneumatic Actuators](https://www.researchgate.net/publication/384479832_ON_THE_COMPLEXITY_OF_INTERNAL_CHAMBERS_IN_SOFT_PNEUMATIC_ACTUATORS)
+
 
 
 ## 🌐 Socials:
