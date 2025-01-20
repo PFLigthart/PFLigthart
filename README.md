@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔬 I'm currently working on a **PhD in Mechanical Engineering**, focusing on **Numerical modeling of the Ilizarov external fixation device**.
+👨‍🏫 Alongside my studies, I am a **Junior Lecturer** in the Department of Mechanical and Mechatronic Engineering at **Stellenbosch University**.
 
 ## 🎓 Qualifications
 🎓 **BEng (Mechanical)**  
@@ -23,7 +24,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PFLigthart&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PFLigthart&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote (auto generated)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
