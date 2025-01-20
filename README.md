@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔬 I'm currently working on a **PhD in Mechanical Engineering**, focusing on **Numerical modeling of the Ilizarov external fixation device**.
+
 👨‍🏫 Alongside my studies, I am a **Junior Lecturer** in the Department of Mechanical and Mechatronic Engineering at **Stellenbosch University**.
 
 ## 🎓 Qualifications
