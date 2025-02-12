@@ -5,7 +5,7 @@
 
 ## 🎓 Qualifications
 🎓 **BEng (Mechanical)**  
-🎓 **MEng (Mechanical)**  
+🎓 **MEng (Mechanical)** Cum Laude 
 🔧 My master's involved **non-linear FEA**, **meta-modeling** (from simple polynomials to RBFs and Neural networks), and **optimization**.
 
 ## 📚 Publications
